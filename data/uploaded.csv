@@ -1,0 +1,6 @@
+date,product,units_sold,revenue,region
+2024-01-01,Product A,120,24000,North
+2024-01-02,Product B,85,17000,South
+2024-01-03,Product A,200,40000,East
+2024-01-04,Product C,60,9000,West
+2024-01-05,Product B,150,30000,North
